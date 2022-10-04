@@ -1,0 +1,9 @@
+#cara upload file ke server
+
+git add .
+git commit -m "buat file"
+git push -u origin main
+
+#cara mengambil file dari server
+
+git pull
